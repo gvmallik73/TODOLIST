@@ -1,0 +1,46 @@
+#container{
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+body{
+    background-image: url(https://img.freepik.com/free-photo/high-angle-plant-notebook-frame_23-2148785012.jpg?w=1060&t=st=1689952670~exp=1689953270~hmac=e74d011a40de6b7035ba34d787ffcf63c4a9e85af2d19a87e58687b20d9f38e2);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+form{
+    margin-bottom: 20px;
+
+}
+
+ #task {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+button {
+    width: 20%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14PX 20PX;
+    margin: 8PX 0;
+    border: none;
+    cursor: pointer;
+
+}
+ul {
+    list-style: none;
+}
+
+li {
+background-color: #f9f9f9;
+padding: 10px;
+margin-bottom: 10px;
+}
+.done {
+    text-decoration: line-through;
+}
